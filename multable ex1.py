@@ -1,4 +1,5 @@
 n=int(input("enter the number for mul table:"))
+print("file was chnaged by developer")
 
 if(n<=0):
     print("{} is a invalid input:".format(n))
