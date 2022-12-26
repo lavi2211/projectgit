@@ -1,1 +1,3 @@
 this is to improve git learning
+build 
+test deploy
