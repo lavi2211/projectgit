@@ -10,6 +10,7 @@ else:
         print("\t{}*{}={}".format(n,i,n*i))
     else:
         print("="*60)
+        bat 'python multable ex1.py'
 
 
 
